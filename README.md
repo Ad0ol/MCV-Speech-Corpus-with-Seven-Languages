@@ -1,0 +1,1 @@
+We used the subsets of the Mozilla Common Voice (MCV) corpora to create our corpus consisting of Arabic and six languages from industrial countries as follows: Chinese, English, French, German, Russian, and Spanish; these languages are of the top ten foreign languages demanded worldwide to NLP projects.
